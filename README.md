@@ -1,6 +1,6 @@
 # Santorini
 ## Demo
-[![Watch the video]()](https://youtu.be/VRwaAWGektU)
+[![Watch the video](https://i3.ytimg.com/vi/VRwaAWGektU/maxresdefault.jpg)](https://youtu.be/VRwaAWGektU)
 
 ## Starting a game
 
