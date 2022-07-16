@@ -1,4 +1,6 @@
 # Santorini
+## Demo
+[![Watch the video]()](https://youtu.be/VRwaAWGektU)
 
 ## Starting a game
 
